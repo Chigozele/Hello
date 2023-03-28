@@ -1,2 +1,2 @@
 # Hello
-Starting
+Starting with the GitHub Platform
